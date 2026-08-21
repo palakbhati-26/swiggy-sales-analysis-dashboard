@@ -50,7 +50,7 @@ This project is an interactive sales analytics solution built in Microsoft Excel
 - Swiggy Data Sheet – Raw dataset used for reporting.
 
 ## Dashboard Preview
-![Swiggy Dashboard(dashboard-screenshot.png)]
+![Swiggy Dashboard](dashboard-screenshot.png)
 
 
 ## Outcome
